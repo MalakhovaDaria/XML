@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
+  <id>5264</id>
   <type>bug</type>
-  <priority>hidht</priority>
+  <priority>minor</priority>
   <sprint>A1</sprint>
-  <summar>the send button on Feedback panel doesn't work corrently</summary>
-  <description>when clicking on the button, an incorrect recuest is sent to the server</description> 
+  <summar>the background does not change. on the " to buy" button. on the "shopping cart" page. on hover</summary>
+  <spep_to_reproduce>open the page https://www.wildberries.ru/lk/basket. hover the cursor over "to buy"</spep_to_reproduce>
+  <result>the background of the button does not change</result>
+  <expected_result>background of the button changes on #004783
 </bug_report>
