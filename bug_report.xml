@@ -4,7 +4,7 @@
   <type>bug</type>
   <priority>minor</priority>
   <sprint>A1</sprint>
-  <summar>the background does not change. on the " to buy" button. on the "shopping cart" page. on hover</summary>
+  <summary>the background does not change. on the " to buy" button. on the "shopping cart" page. on hover</summary>
   <spep_to_reproduce>open the page https://www.wildberries.ru/lk/basket. hover the cursor over "to buy"</spep_to_reproduce>
   <result>the background of the button does not change</result>
   <expected_result>background of the button changes on #004783
